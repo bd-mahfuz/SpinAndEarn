@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Spin And Earn</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="login_text">Login</string>
+    <string name="not_registered_text">Not Registered Yet?</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="send_verification_code_text">Please wait until we sent verification code to your mobile</string>
+    <string name="submit">Submit</string>
+    <string name="enter_verification_code">Enter verification code</string>
+    <string name="user_name_text">User name</string>
+    <string name="dummy_user">Tarek Hasan</string>
+    <string name="edit">Edit</string>
+    <string name="dummy_phone">02348034</string>
+    <string name="dummy_email">test@gmail.com</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="update">Update</string>
+    <string name="dob">Date of Birth</string>
+    <string name="dummy_dob">12/12/12</string>
 </resources>
