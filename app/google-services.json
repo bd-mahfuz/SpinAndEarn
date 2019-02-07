@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471592724997",
+    "firebase_url": "https://spring-and-earn.firebaseio.com",
+    "project_id": "spring-and-earn",
+    "storage_bucket": "spring-and-earn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471592724997:android:a4b45e31678eabd7",
+        "android_client_info": {
+          "package_name": "com.kcirqueit.spinandearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471592724997-9c6p2n5h3du3t2strn7dpcfs2fm1pgot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kcirqueit.spinandearn",
+            "certificate_hash": "6d98fab87a8474e9a28de05d6d4b06866bf51de3"
+          }
+        },
+        {
+          "client_id": "471592724997-60bh73s78g15apoq59adjkjaa46vn0e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNrCEspUcFQoHmwUN3nBBvUDEZdqJRBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471592724997-60bh73s78g15apoq59adjkjaa46vn0e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
